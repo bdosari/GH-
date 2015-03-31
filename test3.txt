@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 main test3
-=======
-branch test3
->>>>>>> origin/test_branch2
